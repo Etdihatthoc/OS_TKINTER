@@ -1,0 +1,8 @@
+{
+    "rq_time_arrival": 0.5,
+    "queue_length": 15,
+    "read_time": 3,
+    "write_time": 5,
+    "forward_time": 1,
+    "requests_sequence": ["read", "write", "forward", "read", "write", "forward", "write", "read", "write", "write", "write", "read","write", "read","write", "read","write", "read"]
+}
